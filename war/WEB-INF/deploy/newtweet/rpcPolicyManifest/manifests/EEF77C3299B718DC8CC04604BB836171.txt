@@ -1,0 +1,2 @@
+serviceClass: newTweet.client.GreetingService
+path: 268152F148EDD24F7F91A6DC9F3ABF13.gwt.rpc
